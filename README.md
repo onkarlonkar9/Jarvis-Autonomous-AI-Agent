@@ -129,5 +129,5 @@ Happy building.
 ---
 
 Get this done, Onkar. Make it sharp. Then the rest of the world will take your project seriously.
-::contentReference[oaicite:0]{index=0}
+
 
