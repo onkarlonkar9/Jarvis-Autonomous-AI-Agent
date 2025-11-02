@@ -3,7 +3,7 @@
 > **Jarvis** is your command-and-control AI powerhouse: a self-driving autonomous agent built in Python and Docker, ready to automate tasks, respond to prompts, and act as a personal AI assistant that **thinks**, **plans**, and **executes**.
 
 ---
-
+![](./Screenshot%202025-11-02%20151217.png)
 ## 🚀 Why Jarvis?
 
 - Autonomy: Designed to operate with minimal human intervention.  
