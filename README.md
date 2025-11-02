@@ -59,10 +59,14 @@ docker run -d -p 8000:8000 -p 8501:8501 --env-file .env ai-agent
 
 ```
 🗂️ Project Structure
+```bash
+
 Jarvis-Autonomous-AI-Agent/
 ├── app/                # Main application modules and logic
 ├── Dockerfile          # Defines container build
 ├── README.md           # This document
+
+```
 
 📈 Roadmap
 
