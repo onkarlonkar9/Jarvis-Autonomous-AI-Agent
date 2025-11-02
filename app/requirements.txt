@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+chromadb
+openai
+ddgs
+tiktoken
+cachetools
+streamlit
+redis
+requests
+loguru
+
