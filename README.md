@@ -43,16 +43,17 @@
 ### Step-by-step Setup
 
 1. Clone the repository:  
-   ```bash
+```bash
    git clone https://github.com/onkarlonkar9/Jarvis-Autonomous-AI-Agent.git
    cd Jarvis-Autonomous-AI-Agent
 ```
 
 2. Build the Docker image:
+
 ```bash
 docker build -t jarvis-agent .
-
 ```
+
 3. Run the container:
 ```bash
 docker run -d -p 8000:8000 -p 8501:8501 --env-file .env ai-agent
